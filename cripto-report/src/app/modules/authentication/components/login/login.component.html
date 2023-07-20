@@ -1,0 +1,28 @@
+<div class="container-fluid align-items-center h-100  background-custom">
+    <div class="row h-100 justify-content-center align-items-center">
+        
+        <div class="col-sm col-lg-4 m-2 d-flex flex-column align-self-center bg-white shadow-sm border p-3 border">
+            <form  (ngSubmit)="onSubmit()" class="w-100" [formGroup]="loginForm">
+            <div class="text-center text-muted">
+                <fa-icon class="fa-3x" [icon]="['fas','user-secret']" ></fa-icon>
+            </div>
+            <div class="text-center text-muted">
+                <h5>{{title}}</h5>                 
+            </div>
+            
+                <div class="mb-3">
+                    <label for="userName" class="form-label" >Login</label>
+                    <input type="text" required class="form-control" formControlName="userName" id="login" placeholder="Login">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" required formControlName="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <div class="col text-center">
+                    <button type="submit" class="col-5 btn btn-primary">Sign-in</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
