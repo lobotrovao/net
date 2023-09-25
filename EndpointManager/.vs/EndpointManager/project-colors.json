@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72437d47-9171-4dc9-abdd-5d4548e48bcf": {
+      "ProjectGuid": "72437d47-9171-4dc9-abdd-5d4548e48bcf",
+      "DisplayName": "EndpointManager",
+      "ColorIndex": 0
+    },
+    "c63659a1-9ce3-450b-8631-b298f5e4eee9": {
+      "ProjectGuid": "c63659a1-9ce3-450b-8631-b298f5e4eee9",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "1156c7e7-670a-4dd1-a80d-957f72d91a43": {
+      "ProjectGuid": "1156c7e7-670a-4dd1-a80d-957f72d91a43",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "57e2987f-796e-4a62-ae3f-3a980a7e93be": {
+      "ProjectGuid": "57e2987f-796e-4a62-ae3f-3a980a7e93be",
+      "DisplayName": "Application",
+      "ColorIndex": 3
+    },
+    "edcad1b5-f33b-4278-8519-b179d6c92d15": {
+      "ProjectGuid": "edcad1b5-f33b-4278-8519-b179d6c92d15",
+      "DisplayName": "EndpointManager",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "2aabc5e1-f5fd-4d57-bf27-cf0b62b3c538": {
+      "ProjectGuid": "2aabc5e1-f5fd-4d57-bf27-cf0b62b3c538",
+      "DisplayName": "EndpointManagerTest",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
